@@ -313,7 +313,7 @@ h1, h2, h3, h4, .font-display, .font-headline {
     border-top: 1px solid #E2E8F0 !important;
     box-shadow: 0 -8px 25px rgba(0, 0, 0, 0.12) !important;
     padding: 10px 16px !important;
-    z-index: 50 !important;
+    z-index: 40 !important;
     transform: translateY(115%);
     opacity: 0;
     pointer-events: none;
