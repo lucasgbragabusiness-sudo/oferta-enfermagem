@@ -17,7 +17,7 @@ window.PAGE_CONFIG = {
     // Oferta Básica: Pacote Básico (R$ 10,90)
     basico: "https://ggcheckout.app/checkout/v5/Zisp5bGIWTR0yXwuH3tgjS",
 
-    // Oferta Upgrade no Pop-up: Pacote Completo com Desconto (R$ 16,90)
+    // Oferta Upgrade no Pop-up: Pacote Completo com Desconto (R$ 14,90)
     upsell: "https://ggcheckout.app/checkout/v5/uGtUhkqWpCGoMkxOdkiqw6",
   },
 
@@ -28,7 +28,7 @@ window.PAGE_CONFIG = {
     completo: "19,90",
     completoDe: "147",
     basico: "10,90",
-    upsell: "16,90",
+    upsell: "14,90",
     upsellDe: "47,90",
   },
 
